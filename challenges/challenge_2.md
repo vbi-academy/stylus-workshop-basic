@@ -32,6 +32,4 @@ struct Storage {
 * balances: Mapping from address to token balance
 * allowances: Mapping from (owner, spender) to allowed amount
 
-
-
-
+# Create a new file `src/erc20.rs` and add the code. 

@@ -21,3 +21,9 @@ First-time participants must complete the registration of the wallet address thr
 - [ ] TransactionHash when the counter to `19`
 
 
+### ERC-20 Token with Stylus
+- [ ] Deployed code at address: 
+- [ ] Deployment tx hash:
+- [ ] Token symbol:
+- [ ] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`:
+
