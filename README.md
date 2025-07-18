@@ -13,5 +13,7 @@ To make it count (and earn your well-deserved rewards), follow these steps:
 *  In your own github id folder, update the readme.md with the completion status of each challenge
 * Submit a PR. If you only finished challenge 1, name it Completed task 1; if you completed multiple, name it like Completed challenge 1 2 3, etc.
 
+# Getting Test Tokens from Faucets
+Go to `faucet.md`
 
-# stylus-workshop-basic-
+

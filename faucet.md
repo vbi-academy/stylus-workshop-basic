@@ -54,7 +54,7 @@ Test tokens have no real-world value and are only meant for experimentation.
 
 
 # Remix IDE for Stylus
-The most popular web-based IDE supporting the development, compilation, deployment, and interaction of Arbitrum Stylus contracts.: https://docs.welldonestudio.io/code/arbitrum-stylus/
+The most popular web-based IDE supporting the development, compilation, deployment, and interaction of Arbitrum Stylus contracts: https://docs.welldonestudio.io/code/arbitrum-stylus/
 
 
 
