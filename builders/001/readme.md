@@ -1,8 +1,8 @@
 # Basic Information
 
-* Name: 
-* Phone number: 
-* Your Wallet Address: 
+* Name: MAI THANH NHA
+* Phone number: 0974639191
+* Your Wallet Address: 0x777ad5aD839F99F832d7e27b34Db2962396ABC44
 
 First-time participants must complete the registration of the wallet address through the task to have it merged. You should use this address for subsequent challenges.  
 
