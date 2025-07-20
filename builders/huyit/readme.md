@@ -25,5 +25,5 @@ First-time participants must complete the registration of the wallet address thr
 - [ ] Deployed code at address: 0x399981c91f7f751c7fb6e59f45ed22d0f8a7b2fd
 - [ ] Deployment tx hash: 0x7aaa77fa39f798e620e2faae4b7aa84f85d6d9b234a9f408459488a2b5db768f
 - [ ] Token symbol: STT
-- [ ] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`: 0x46a98e257fb8d4cf371bd4d80e8c91894e8b42925503dd776064a99259394925
+- [ ] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`: 0x46a98e257fb8d4cf371bd4d80e8c91894e8b42925503dd776064a99259394925 
 
