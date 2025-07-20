@@ -15,7 +15,7 @@ To make it count (and earn your well-deserved rewards), follow these steps:
 
 
 
-> The Top 10 pull requests that complete at least two challenges will be eligible for a $10 reward per person
+> The Top 10 pull requests that complete at least two challenges will be eligible for a $20 reward per person
 
 # Getting Test Tokens from Faucets
 Go to `faucet.md`
