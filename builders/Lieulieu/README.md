@@ -22,7 +22,7 @@ First-time participants must complete the registration of the wallet address thr
 
 
 ### ERC-20 Token with Stylus
-- [x] Deployed code at address: 0xde30be1481e9e7c5cc8478533c9cc375f510414c
-- [x] Deployment tx hash: 0x1e5fec40df687aae42a205d95fdf6f50db4cecff021c8b3b1687f266cc51649a
-- [x] Token symbol: MTK
-- [ ] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`:
+- [x] Deployed code at address: 0x94f6af7834ac1155bdc1203cf2b2dcd6316d1cf3
+- [x] Deployment tx hash: 0x6ca31c86f7a6d6001a9a42b53322a2bd7069f5fffa3aa0de19f22d291cb358f7
+- [x] Token symbol: STTK
+- [X] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`: 0x765b2f2f660369bd5df4f9dc362bcb8ed5b9ded2f53e13e73dafc5cf00c51742
