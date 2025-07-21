@@ -25,5 +25,5 @@ First-time participants must complete the registration of the wallet address thr
 - [X] Deployed code at address: `0xc77b830f0bfe31fd4ce076c580700b460ec21247`
 - [X] Deployment tx hash: `0x1dd813477fd15045ee7a2983b4524c7e50048abff23d0c51146bbe59bdb7e4f3`
 - [X] Token symbol: `LUNOR` 
-- [ ] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`: `0x0fdd48aff5cc0dea2abc4d0706f51f4b10f9a36f38b721163caeb8e55f11508e`
+- [X] TransactionHash when call the `transfer` function to this address `0xB7FBb1f09c46f534d94B6EBa0FF5F4b52fb1046b`: `0x0fdd48aff5cc0dea2abc4d0706f51f4b10f9a36f38b721163caeb8e55f11508e`
 
